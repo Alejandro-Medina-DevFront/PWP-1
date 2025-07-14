@@ -9,7 +9,8 @@
 - FORMULARIO DE CONTACTO
 - Planes fittness ofrecidos por el cliente
 
-# Web 100% responsive (útil en todos los dispositivos desde computadora hasta celular)
+# Web 100% responsive 
+(útil en todos los dispositivos desde computadora hasta celular)
 # Formulario decontacto que lleva a WhatsApp
  Perfecta ortigrafía
 
