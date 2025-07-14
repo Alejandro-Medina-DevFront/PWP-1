@@ -1,8 +1,8 @@
-#🚀 WEB UTILIZADA DE EJEMPLO DE  MI PRABAJO EN MI PORTAFOLIO🚀 ##
+#🚀 WEB UTILIZADA DE EJEMPLO DE  MI PRABAJO EN MI PORTAFOLIO🚀 
 
-#Web que da presentacion online a un entrenador fittnes profesional
+# Web que da presentacion online a un entrenador fittnes profesional
 
-#Esta web cuenta con:
+# Esta web cuenta con:
 - Blog personal con articulos personales escritos por el autor
 - Foto personal
 - Certificados que confirman la profesionalidad del cliente
